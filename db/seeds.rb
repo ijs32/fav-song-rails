@@ -8,3 +8,7 @@
 
 
 #   song = Song.create(title: "Colors and Shapes", album: "Colors and Shapes", artist: "Mac Miller", year: 2021)
+#  song = Song.create(title: "Baby Boy", album: "Awaken, My Love!", artist: "Childish Gambino", year: 2016)
+#  song = Song.create(title: "Maria I'm Drunk", album: "Rodeo", artist: "Travis Scott", year: 2015)
+#  song = Song.create(title: "Death and Taxes", album: "Pilgrim's Paradise", artist: "Daniel Caesar", year: 2015)
+#  song = Song.create(title: "Company", album: "2015", artist: "Drake", year: 2015)

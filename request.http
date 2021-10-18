@@ -1,0 +1,22 @@
+POST http://localhost:3000/songs.json
+Content-Type: application/json
+
+{
+  "title": "Love/Paranoia",
+  "album": "Currents",
+  "artist": "Tame Impala",
+  "year": 2015
+}
+
+###
+
+PATCH http://localhost:3000/songs/6.json
+Content-Type: application/json
+
+{
+  "album": "If you're reading this it's too late"
+}
+
+###
+
+DELETE http://localhost:3000/songs/6.json
